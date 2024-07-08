@@ -37,7 +37,7 @@ class S4
           System.out.print("  ");
        for(int j=0;j<2*n;j++)
         if(j==2*n-1||i==n-1)
-          System.out.print("# ");
+          System.out.print("* ");
         else if(i==3 && j<n-4 && j>3 ||i==3 && j<=2*(n-4) && j>n|| i==n-6&& j<n-4 && j>3||i==n-6 && j<=2*(n-4) && j>n)
 
           System.out.print("# ");
