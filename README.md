@@ -6,5 +6,5 @@ S3 Output
 
 S4 Output
 
-![image](https://github.com/chandrasudiksha/HousePattern/assets/116143966/7027f6e2-9d4f-43e6-beb0-8596752c3cd6)
+![image](https://github.com/chandrasudiksha/HousePattern/assets/116143966/9876387b-4693-4812-b258-f2fae8c8d833)
 
